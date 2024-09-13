@@ -10,7 +10,7 @@ A **Fullstack Developer** based in Krakow, Poland. I specialize in developing an
 ## 💼 Work Experience
 
 ### Fullstack Developer, Vean Tattoo
-*09/2023 - Present*
+*09/2022 - Present*
 
 - Developed and maintained internal systems using **React** (Apollo, Axios, Reactstrap, Formik, SCSS, i18next) and **Django**. Interacted with the server via **GraphQL** and **REST API**.
 - Supported a branding website built on **Wagtail** (Python CMS, SSR, jQuery) using **Django Templates**.
@@ -86,7 +86,7 @@ I am passionate about participating in open-source projects and always strive to
 ## 💼 Опыт работы
 
 ### Fullstack Developer, Vean Tattoo
-*09/2023 - Настоящее время*
+*09/2022 - Настоящее время*
 
 - Разработка и поддержка внутренней системы с использованием **React** (Apollo, Axios, Reactstrap, Formik, SCSS, i18next) и **Django**. Взаимодействие с сервером через **GraphQL** и **REST API**.
 - Поддержка имиджевого сайта, созданного на **Wagtail** (Python CMS, SSR, jQuery) с использованием **Django Templates**.
