@@ -1,4 +1,4 @@
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=RuslanShitik&theme=vue-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RuslanShitik&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
