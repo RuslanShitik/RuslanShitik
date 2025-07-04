@@ -1,3 +1,7 @@
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=RuslanShitik&theme=vue-dark&hide_border=true)
+
+---
+
 # Hi, I'm Ruslan 👋
 
 A **Fullstack Developer** based in Krakow, Poland. I specialize in developing and maintaining robust applications using modern web technologies. My expertise spans both frontend and backend development, focusing on delivering high-quality, performant, and user-friendly solutions.
@@ -147,7 +151,3 @@ I am passionate about participating in open-source projects and always strive to
 ## 🚀 Проекты
 
 Я увлечен участием в open-source проектах и всегда стремлюсь изучать новые технологии. Вы можете исследовать мои репозитории, чтобы увидеть проекты, над которыми я работаю.
-
----
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=RuslanShitik&theme=vue-dark&hide_border=true)
